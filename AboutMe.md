@@ -1,9 +1,9 @@
-## About Me
-<p>Name:</p>
-<p>Preferred Name:</p>
-<p>Grade Level:</p>
-<p>Email:</p>
+I'm 18 ##About Me
+My name is Justin Chatpaisankun <p>Name:</p>
+Justin <p>Preferred Name:</p>
+12 <p>Grade Level:</p>
+24jchatpaisankun@adriansd.org <p>Email:</p>
 <p>Computer Science Courses Taken:</p>
 <p>Computer Science Interest Areas:</p>
-<p>After High School Plans:</p>
+Go to the university <p>After High School Plans:</p>
 
